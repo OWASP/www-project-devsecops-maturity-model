@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP devsecops maturity model
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
