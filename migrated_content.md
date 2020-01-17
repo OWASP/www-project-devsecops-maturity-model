@@ -7,16 +7,7 @@ level: 0
 type: documentation
 
 ---
-<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
-![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
-"OWASP_Project_Header.jpg")
-
-</div>
-
-<table>
-<tbody>
-<tr class="odd">
 <p>From a startup to a multinational corporation the software development industry is currently dominated by agile frameworks and product teams and as part of it DevOps strategies. It has been observed that during the implementation, security aspects are usually neglected or are at least not sufficient taken account of. It is often the case that standard safety requirements of the production environment are not utilized or applied to the build pipeline in the continuous integration environment with containerization or concrete docker. Therefore, the docker registry is often not secured which might result in the theft of the entire company’s source code.</p>
 <p>The DevSecOps Maturity Model, which is presented in the talk, shows security measures which are applied when using DevOps strategies and how these can be prioritized. </p>
 <p>With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities. </p>
@@ -44,15 +35,4 @@ type: documentation
 <p><a href="mailto://timo.pagel@owasp.org">Timo Pagel</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <h2 id="related_projects">Related Projects</h2>
-<ul>
-<ul>
 <li>OWASP SAMM</li>
-<li>OWASP SAMM</li>
-</ul></td>
-</ul></td>
-</tr>
-</tr>
-</tbody>
-</tbody>
-</table>
-</table>
