@@ -30,8 +30,6 @@ type: documentation
 <p><a href="https://docs.google.com/presentation/d/1dAewXIHgBEKHKwBPpM5N_G2eM6PRpduoGJrp6R6pNUI/edit?usp=sharing">Continuous Application Security Testing for Enterprise (with DevSecOps Maturity Model)</a></p>
 <p><a href="https://docs.google.com/presentation/d/1dAewXIHgBEKHKwBPpM5N_G2eM6PRpduoGJrp6R6pNUI/edit?usp=sharing">Continuous Application Security Testing for Enterprise (with DevSecOps Maturity Model)</a></p>
 <h2 id="project_leader">Project Leader</h2>
-<h2 id="project_leader">Project Leader</h2>
-<p><a href="mailto://timo.pagel@owasp.org">Timo Pagel</a></p>
 <p><a href="mailto://timo.pagel@owasp.org">Timo Pagel</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <h2 id="related_projects">Related Projects</h2>
