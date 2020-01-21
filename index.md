@@ -24,8 +24,8 @@ The projects code is licensed under GNU GENERAL PUBLIC LICENSE Version 3. The in
 In case you have ideas for improvements for the application, please create a pull request.
 In case you have ideas to adjust the model, please create a pull request with appropriate description. In a maturity model, a first check of the new/changed activities against the ease of implementation and the value in the same sub dimension should be performed. Afterwards, the ease of implementation and the value needs to be compared against activities in the same dimension and other dimension. A documentation of the comparison in the pull request needs to be added.
 ## Project Resources
-<a href="https://dsomm.timo-pagel.de">View the model</a>
-<a href="https://github.com/wurstbrot/DevSecOps-MaturityModel">Github</a>
+* <a href="https://dsomm.timo-pagel.de">View the model</a>
+* <a href="https://github.com/wurstbrot/DevSecOps-MaturityModel">Github</a>
 
 ### Slides
 * <a href="https://docs.google.com/presentation/d/1rrbyXqxy3LXAJNPFrVH99mj_BNaJKymMsXZItYArWEM/edit?usp=sharing">DevSecOps Maturity Model</a>
