@@ -28,8 +28,8 @@ In case you have ideas to adjust the model, please create a pull request with ap
 <a href="https://github.com/wurstbrot/DevSecOps-MaturityModel">Github</a>
 
 ### Slides
-<a href="https://docs.google.com/presentation/d/1rrbyXqxy3LXAJNPFrVH99mj_BNaJKymMsXZItYArWEM/edit?usp=sharing">DevSecOps Maturity Model</a><
-<a href="https://docs.google.com/presentation/d/1dAewXIHgBEKHKwBPpM5N_G2eM6PRpduoGJrp6R6pNUI/edit?usp=sharing">Continuous Application Security Testing for Enterprise (with DevSecOps Maturity Model)</a>
+* <a href="https://docs.google.com/presentation/d/1rrbyXqxy3LXAJNPFrVH99mj_BNaJKymMsXZItYArWEM/edit?usp=sharing">DevSecOps Maturity Model</a>
+* <a href="https://docs.google.com/presentation/d/1dAewXIHgBEKHKwBPpM5N_G2eM6PRpduoGJrp6R6pNUI/edit?usp=sharing">Continuous Application Security Testing for Enterprise (with DevSecOps Maturity Model)</a>
 
 ## Project Leader
 <a href="mailto://timo.pagel@owasp.org">Timo Pagel</a>
