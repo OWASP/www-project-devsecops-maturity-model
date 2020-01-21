@@ -15,7 +15,7 @@ With the help of DevOps strategies security can also be enhanced. For example, e
 Attackers are intelligent and creative, equipped with new technologies and purpose. Under the guidance of the forward-looking DevSecOps Maturity Model, appropriate principles and measures are at hand implemented which counteract the attacks.
 
 ## Implementation Level
-![Implementation Level][/assets/impl.png]
+![Implementation Level][/assets/images/impl.png]
 
 ## License
 The projects code is licensed under GNU GENERAL PUBLIC LICENSE Version 3. The intellectual property is licensed under Attribution-ShareAlike.
