@@ -14,6 +14,9 @@ The DevSecOps Maturity Model, which is presented in the talk, shows security mea
 With the help of DevOps strategies security can also be enhanced. For example, each component such as application libraries and operating system libraries in docker images can be tested for known vulnerabilities.
 Attackers are intelligent and creative, equipped with new technologies and purpose. Under the guidance of the forward-looking DevSecOps Maturity Model, appropriate principles and measures are at hand implemented which counteract the attacks.
 
+## Implementation Level
+![Implementation Level][/assets/impl.png]
+
 ## License
 The projects code is licensed under GNU GENERAL PUBLIC LICENSE Version 3. The intellectual property is licensed under Attribution-ShareAlike.
 
