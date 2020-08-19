@@ -1,3 +1,6 @@
+* [dsomm.timo-pagel.de](https://dsomm.timo-pagel.de)
+* [Git Repository](https://github.com/wurstbrot/DevSecOps-MaturityModel)
+
 <!--### Project Information
 * Project Level
 * Project Type
