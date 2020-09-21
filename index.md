@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Devsecops Maturity Model
-tags: welcome-page
-level: 0
+tags: builder, documentation
+level: 2
 type: documentation
 
 ---
@@ -19,12 +19,10 @@ Attackers are intelligent and creative, equipped with new technologies and purpo
 # More Information: 
 * [dsomm.timo-pagel.de](https://dsomm.timo-pagel.de)
 * [GitHub Blog](https://github.blog/2020-08-06-achieving-devsecops-maturity-with-a-developer-first-community-driven-approach/)
-* [White Paper](https://resources.github.com/whitepapers/achieving-devsecops-maturity-github/)
 * [Education](https://courses.practical-devsecops.com/p/devsecops-professional)
 
 ## Project Leader
 <a href="mailto://timo.pagel@owasp.org">Timo Pagel</a>
-<a href="mailto://alwell-kevin@github.com">Kevin Alwell</a>
 
 ## License
 The projects code is licensed under GNU GENERAL PUBLIC LICENSE Version 3. The intellectual property is licensed under Attribution-ShareAlike.
