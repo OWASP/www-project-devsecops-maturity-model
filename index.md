@@ -17,7 +17,7 @@ Attackers are intelligent and creative, equipped with new technologies and purpo
 ## Implementation Level
 ![Implementation Level](/assets/images/impl.png)
 
-# More Information: [dsomm.timo-pagel.de](https://dsomm.timo-pagel.de)
+# More Information: [dsomm.owasp.org](https://dsomm.owasp.org)
 
 ## Project Leader
 <a href="mailto://timo.pagel@owasp.org">Timo Pagel</a>
