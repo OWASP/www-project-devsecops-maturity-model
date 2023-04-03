@@ -1,4 +1,4 @@
-* [dsomm.timo-pagel.de](https://dsomm.timo-pagel.de)
+* [dsomm.owasp.org](https://dsomm.owasp.org)
 * [Git Repository](https://github.com/wurstbrot/DevSecOps-MaturityModel)
 
 <!--### Project Information
