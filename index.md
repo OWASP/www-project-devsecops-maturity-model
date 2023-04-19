@@ -20,7 +20,8 @@ Attackers are intelligent and creative, equipped with new technologies and purpo
 # More Information: [dsomm.owasp.org](https://dsomm.owasp.org)
 
 ## Project Leader
-<a href="mailto://timo.pagel@owasp.org">Timo Pagel</a>
+* <a href="mailto://timo.pagel@owasp.org">Timo Pagel</a>
+* Aryan Prasad
 
 ## License
 The projects code is licensed under GNU GENERAL PUBLIC LICENSE Version 3. The intellectual property is licensed under Attribution-ShareAlike.
