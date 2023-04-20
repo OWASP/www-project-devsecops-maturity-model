@@ -1,4 +1,4 @@
 ### Leaders
 
 * [Timo Pagel](mailto:timo.pagel@owasp.org)
-* Aryan Prasad
+* [Aryan Prasad](mailto:aryan.prasad@owasp.org)
