@@ -1,0 +1,42 @@
+audience:
+  - builder
+leaders:
+  - name: Timo Pagel
+    email: timo.pagel@owasp.org
+    github: wurstbrot
+  - name: Aryan Prasad
+    email: aryan.prasad@owasp.org
+level: 3
+license:
+  - GPL-3.0
+  - MIT
+name: OWASP Devsecops Maturity Model
+pitch: Description for OWASP Devsecops Maturity Model
+repositories:
+  - name: www-project-devsecops-maturity-model
+    url: https://github.com/OWASP/www-project-devsecops-maturity-model
+    description: OWASP Foundation Web Repository
+  - name: collector-confluence
+    url: https://github.com/devsecopsmaturitymodel/collector-confluence
+    description: Collector for metric Analyzer
+  - name: collector-github
+    url: https://github.com/devsecopsmaturitymodel/collector-github
+  - name: DevSecOps-MaturityModel
+    url: https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel
+  - name: DevSecOps-MaturityModel-custom
+    url: https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel-custom
+  - name: DevSecOps-MaturityModel-data
+    url: https://github.com/devsecopsmaturitymodel/DevSecOps-MaturityModel-data
+  - name: metricAnalyzer
+    url: https://github.com/devsecopsmaturitymodel/metricAnalyzer
+  - name: metricCA
+    url: https://github.com/devsecopsmaturitymodel/metricCA
+  - name: metricca-data
+    url: https://github.com/devsecopsmaturitymodel/metricca-data
+    description: This repository contains sample data for metricAnalyzer. It is filled by collectors like collector-confluence
+tags:
+  - builder
+  - documentation
+  - custom-tag-1
+type: documentation
+website: https://owasp.org/www-project-devsecops-maturity-model
